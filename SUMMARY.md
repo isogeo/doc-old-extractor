@@ -14,3 +14,7 @@
 * [Administration](fonctionnement/admin.md)
 * [Utilisation](fonctionnement/usage.md)
 
+## Annexes
+
+* [Table des figures](pictures.md)
+
