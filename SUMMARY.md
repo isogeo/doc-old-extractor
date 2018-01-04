@@ -8,6 +8,10 @@
 
 * [Prérequis](presentation/prerequisites.md)
 * [Installation](installation/installation.md)
+* [Configuration](presentation/configuration.md)
+  * [Extraction](presentation/configuration/extraction.md)
+  * [Publication](presentation/configuration/publication.md)
+  * [Planification](presentation/configuration/scheduling.md)
 * [Support](presentation/support.md)
 
 ## Fonctionnement

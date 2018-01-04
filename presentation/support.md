@@ -7,7 +7,7 @@ L'extracteur étant installé dans une infrastrcuture autonome, il s'agit d'envo
 
 L'extracteur journalise ses opérations (_log_) afin de pouvoir diagnostiquer plus facilement les problèmes.
 
-### Journaux IIS
+### Journaux IIS {#log_iis}
 
 Les requêtes envoyées via les pages web de téléchargement sont directement suivies par le serveur IIS. joindre les derniers fichiers de logs permettre d'isoler les soucis liés à l'accès aux formulaires de téléchargement :
 
