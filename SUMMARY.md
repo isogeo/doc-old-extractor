@@ -3,10 +3,10 @@
 ## Présentation générale
 
 * [Introduction](README.md)
-* [Prérequis](presentation/prerequisites.md)
 
 ## Installation
 
+* [Prérequis](presentation/prerequisites.md)
 * [Installation](installation/installation.md)
 
 ## Fonctionnement
@@ -17,4 +17,5 @@
 ## Annexes
 
 * [Table des figures](pictures.md)
+* [Glossaire](GLOSSARY.md)
 
