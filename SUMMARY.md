@@ -1,18 +1,14 @@
-# Summary
+## Présentation générale
 
-* [Introduction](README.md)
-
-## presentation
-
-* [introduction](presentation/introduction.md)
-* [prerequisites](presentation/prerequisites.md)
+* [Introduction](presentation/introduction.md)
+* [Prérequis](presentation/prerequisites.md)
 
 ## Installation
 
-* [installation](installation/installation.md)
+* [Installation](installation/installation.md)
 
 ## Fonctionnement
 
-* [share](fonctionnement/share.md)
-* [render](fonctionnement/render.md)
+* [Administration](fonctionnement/admin.md)
+* [Utilisation](fonctionnement/usage.md)
 
