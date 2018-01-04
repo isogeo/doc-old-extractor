@@ -1,0 +1,29 @@
+{
+ "language": "fr",
+ "links": {
+             "sidebar": {
+                         "Site Isogeo": "http://www.isogeo.com",
+                         "Administration Isogeo": "https://app.isogeo.com"
+                         }
+             },
+ "plugins": ["image-captions",
+             "page-toc",
+             "timeline",
+             "toggle-headers",
+             "youtube"
+             ],
+ "pluginsConfig": {
+                "image-captions": {
+                              "variable_name": "pictures",
+                              "caption": "Fig. _BOOK_IMAGE_NUMBER_ : _CAPTION_",
+                              "images": {"1.1.1": {"skip": true}}
+                                        },
+                "page-toc": {
+                            "position": "top"
+                            }
+              },
+ "variables": {
+        "pictures": []
+    }
+             
+ }
