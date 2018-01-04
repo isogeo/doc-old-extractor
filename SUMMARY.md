@@ -1,6 +1,8 @@
+# Summary
+
 ## Présentation générale
 
-* [Introduction](presentation/introduction.md)
+* [Introduction](README.md)
 * [Prérequis](presentation/prerequisites.md)
 
 ## Installation
