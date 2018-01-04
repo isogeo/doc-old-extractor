@@ -13,6 +13,7 @@
 
 * [Administration](fonctionnement/admin.md)
 * [Utilisation](fonctionnement/usage.md)
+* [Question fréquentes](fonctionnement/faq.md)
 
 ## Annexes
 
