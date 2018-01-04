@@ -8,7 +8,7 @@
 
 * [Prérequis](presentation/prerequisites.md)
 * [Installation](installation/installation.md)
-* [support](presentation/support.md)
+* [Support](presentation/support.md)
 
 ## Fonctionnement
 
