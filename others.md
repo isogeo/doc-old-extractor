@@ -13,19 +13,19 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 </head>
 <body>
-<div class="col-md-3 col-sm-6">
+<div class="col-md-4 col-sm-6">
     <a href="https://isogeo.gitbooks.io/app-plugin-qgis/content/fr/" class="btn btn-lg btn-block btn-default">
       <p><img src="https://raw.githubusercontent.com/isogeo/isogeo-plugin-qgis/master/img/logo_complet_IsoQGIS.png" height="50"></p>
       <p><b>Plugin pour QGIS</b></p>
     </a>
   </div>
-<div class="col-md-3 col-sm-6">
+<div class="col-md-4 col-sm-6">
     <a href="https://isogeo.gitbooks.io/app-plugin-arcmap/content/fr/" class="btn btn-lg btn-block btn-default">
       <p><img src="https://isogeo.gitbooks.io/app-plugin-arcmap/content/fr/assets/logo_isogeo_arcmap.png" height="50"></p>
       <p><b>Plugin pour ArcMap</b></p>
     </a>
 </div>
-<div class="col-md-3 col-sm-6">
+<div class="col-md-4 col-sm-6">
     <a href="https://isogeo.gitbooks.io/app-widget-esri-webappbuilder/content/fr/" class="btn btn-lg btn-block btn-default">
       <p><img src="https://www.esri.com/content/dam/esrisites/common/icons/product-logos/WebAppBuilder.png" height="50"></p>
       <p><b>Widget Web AppBuilder</b></p>
@@ -34,7 +34,7 @@
 <div class="col-md-3 col-sm-6">
     <a href="https://isogeo.gitbooks.io/app-portal-pixup-admin/content/" class="btn btn-lg btn-block btn-default">
       <p><i class="fa fa-3x fa-map"></p>
-      <p><b>Portail de données</b></p>
+      <p><b>Portail</b></p>
     </a>
 </div>
 <div class="col-md-3 col-sm-6">
