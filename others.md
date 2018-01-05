@@ -15,19 +15,19 @@
 <body>
 <div class="col-md-3 col-sm-6">
     <a href="https://isogeo.gitbooks.io/app-plugin-qgis/content/fr/" class="btn btn-lg btn-block btn-default">
-      <p><img src="https://raw.githubusercontent.com/isogeo/isogeo-plugin-qgis/master/img/logo_complet_IsoQGIS.png" alt="Isogeo <3 QGIS" height="50"></p>
+      <p><img src="https://raw.githubusercontent.com/isogeo/isogeo-plugin-qgis/master/img/logo_complet_IsoQGIS.png" height="50"></p>
       <p><b>Plugin pour QGIS</b></p>
     </a>
   </div>
 <div class="col-md-3 col-sm-6">
     <a href="https://isogeo.gitbooks.io/app-plugin-arcmap/content/fr/" class="btn btn-lg btn-block btn-default">
-      <p><img src="https://isogeo.gitbooks.io/app-plugin-arcmap/content/fr/assets/logo_isogeo_arcmap.png" alt="Isogeo <3 ArcGIS" height="50"></p>
+      <p><img src="https://isogeo.gitbooks.io/app-plugin-arcmap/content/fr/assets/logo_isogeo_arcmap.png" height="50"></p>
       <p><b>Plugin pour ArcMap</b></p>
     </a>
 </div>
 <div class="col-md-3 col-sm-6">
     <a href="https://isogeo.gitbooks.io/app-widget-esri-webappbuilder/content/fr/" class="btn btn-lg btn-block btn-default">
-      <p><img src="https://www.esri.com/content/dam/esrisites/common/icons/product-logos/WebAppBuilder.png" alt="Isogeo <3 Web AppBuilder for ArcGIS" height="50"></p>
+      <p><img src="https://www.esri.com/content/dam/esrisites/common/icons/product-logos/WebAppBuilder.png" height="50"></p>
       <p><b>Widget Web AppBuilder</b></p>
     </a>
 </div>
@@ -51,7 +51,7 @@
 </div>
 <div class="col-md-3 col-sm-6">
     <a href="https://isogeo.gitbooks.io/api/content/fr/" class="btn btn-lg btn-block btn-default">
-      <p><img src="https://isogeo.gitbooks.io/api/content/assets/api_rest_isogeo_logo.jpg" alt="Isogeo <3 QGIS" height="50"></p>
+      <p><img src="https://isogeo.gitbooks.io/api/content/assets/api_rest_isogeo_logo.jpg" height="50"></p>
       <p><b>API REST</b></p>
     </a>
 </div>
