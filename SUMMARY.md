@@ -24,4 +24,5 @@
 
 * [Table des figures](pictures.md)
 * [Glossaire](GLOSSARY.md)
+* [others](others.md)
 
