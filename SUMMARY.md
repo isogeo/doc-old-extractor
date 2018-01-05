@@ -22,7 +22,7 @@
 
 ## Annexes
 
+* [Autres ressources](others.md)
 * [Table des figures](pictures.md)
 * [Glossaire](GLOSSARY.md)
-* [others](others.md)
 
