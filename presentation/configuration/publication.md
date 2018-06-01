@@ -4,11 +4,9 @@
 
 ### Exemples de formulaires générés
 
-
-
-| Département d'Indre-et6loire \(Touraine, 37\) |
+| Département d'Indre-et-Loire \(Touraine, 37\) |
 | :---: |
-| ![](/assets/Extractor_download_form_sample_cd37.png) |
+| ![](/assets/Extractor_download_form_sample_cd37.png)S |
 |  |
 |  |
 |  |
