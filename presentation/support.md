@@ -15,7 +15,9 @@ Les requêtes envoyées via les pages web de téléchargement sont directement s
 
 ### Journal d'extraction {#log_extraction}
 
-Le fichier `Isogeo.Extractor.log` se trouve dans le dossier de l'utilisateur configuré pour lancé l'extracteur :
+Chaque exécution de l'extracteur crée son propre fichier journal. Le dernier fichier journal  (log) correspondant à l'exécution la plus récente est nommé `Isogeo.Extractor.log`. Les précédents fichiers journaux sont renommés avec un incrément du plus récent au plus ancien.
+
+Les fichiers journaux sont stockés dans le dossier temporaire de l'utilisateur configuré pour lancé l'extracteur :
 
 ```
 C:\Users\%USERNAME%\AppData\Local\Temp\Isogeo.Extractor.log
