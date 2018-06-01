@@ -2,7 +2,7 @@
 
 ## Exécution de l'extracteur {#config_exe}
 
-La configuration de l'extracteur se fait via le fichier `*.Extract.proj`, écrit en XML (éditeur Notepad++ ou équivalent recommandé).
+La configuration de l'extracteur se fait via le fichier `*.Extract.proj`, écrit en XML (éditeur Notepad++ ou équivalent recommandé). Les numéros de ligne sont donnés à titre idnicatif et varient selon les configurations.
 
 ### Les données extraire
 
@@ -34,6 +34,24 @@ Si l'extracteur est configuré pour extraire les données dans un dossier, le ch
 </PropertyGroup>
 ```
 
+```
+
+### Formats d'extraction
+
+A partir de la ligne 16 :
+
+```xml
+<!-- Formats d'extraction -->
+<ItemGroup>
+  <ExtractFormat Include="geojson_2154">
+    <Name>GeoJSON</Name>
+    <CoordinateSystemName>RGF 93</CoordinateSystemName>
+  </ExtractFormat>
+  <ExtractFormat Include="shp_2154">
+    <Name>Shapefile</Name>
+    <CoordinateSystemName>RGF 93</CoordinateSystemName>
+  </ExtractFormat>
+</ItemGroup>
 ---
 
 ## Scripts FME {#config_fme}
