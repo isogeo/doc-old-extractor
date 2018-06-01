@@ -1,7 +1,6 @@
 # Support
 
-L'extracteur étant installé dans une infrastrcuture autonome, il s'agit d'envoyer le maximum d'informations avant 
-
+L'extracteur étant installé dans une infrastructure autonome, il s'agit d'envoyer le maximum d'informations à notre support afin de faciliter le diagnostic et accélérer la résolution.
 
 ## Fichier de journalisation {#log}
 
