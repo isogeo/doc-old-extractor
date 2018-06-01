@@ -18,6 +18,7 @@
 
 * [Administration](fonctionnement/admin.md)
 * [Utilisation](fonctionnement/usage.md)
+* [Publication](fonctionnement/usage/publish.md)
 * [Question fréquentes](fonctionnement/faq.md)
 
 ## Annexes
