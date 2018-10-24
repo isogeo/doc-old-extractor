@@ -10,6 +10,7 @@
         "ga",
         "image-captions",
         "page-toc",
+        "sitemap-general",
         "timeline",
         "toggle-headers",
         "youtube"
@@ -29,6 +30,9 @@
         },
         "page-toc": {
             "position": "top"
+        },
+        "sitemap-general": {
+            "prefix": "http://help.isogeo.com/extractor/"
         }
     },
     "variables": {
