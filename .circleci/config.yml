@@ -93,6 +93,12 @@ jobs:
       - *attach_workspace
 
       - run:
+          name: Rename robots.txt
+          command: |
+            mv dist/extractor/robots_qa.txt dist/extractor/robots.txt
+            rm dist/extractor/robots_prod.txt
+
+      - run:
           name: Install rclone
           command: go get github.com/ncw/rclone
 
@@ -104,6 +110,12 @@ jobs:
     <<: *golang_container
     steps:
       - *attach_workspace
+
+      - run:
+          name: Rename robots.txt
+          command: |
+            mv dist/extractor/robots_prod.txt dist/extractor/robots.txt
+            rm dist/extractor/robots_qa.txt
 
       - run:
           name: Install rclone
