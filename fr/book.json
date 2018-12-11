@@ -1,0 +1,11 @@
+{
+    "author": "Isogeo",
+    "language": "fr",
+    "title": "Extracteur Isogeo - Documentation",
+    "links": {
+        "sidebar": {
+            "Site Isogeo": "https://www.isogeo.com",
+            "Autres documentations Isogeo": "http://help.isogeo.com"
+        }
+    }
+}
