@@ -3,11 +3,12 @@
     "links": {
         "sidebar": {
             "Site Isogeo": "https://www.isogeo.com",
-            "Administration Isogeo": "https://app.isogeo.com"
+            "Autres documentations Isogeo": "http://help.isogeo.com"
         }
     },
     "plugins": [
         "ga",
+        "html-minifier",
         "image-captions",
         "page-toc",
         "sitemap-general",
@@ -36,6 +37,7 @@
         }
     },
     "variables": {
+        "author": "Isogeo",
         "pictures": []
     }
 }
