@@ -11,6 +11,7 @@
         "data",
         "open"
     ],
+    "author": "Isogeo <contact@isogeo.fr>",
     "license": "CC-BY-NC-SA-4.0",
     "repository": {
         "type": "git",
@@ -22,17 +23,10 @@
         "gitbook-plugin-ga": "^1.0.1",
         "gitbook-plugin-html-minifier": "^0.0.1",
         "gitbook-plugin-image-captions": "^3.1.0",
-        "gitbook-plugin-page-toc": "^1.0.2",
+        "gitbook-plugin-page-toc": "^1.1.0",
         "gitbook-plugin-sitemap-general": "^0.1.1",
         "gitbook-plugin-timeline": "^1.0.13",
         "gitbook-plugin-toggle-headers": "^0.1.0",
         "gitbook-plugin-youtube": "^1.1.0"
-    },
-    "devDependencies": {
-        "grunt": "^1.0.1",
-        "grunt-contrib-clean": "^1.1.0",
-        "grunt-contrib-copy": "^1.0.0",
-        "grunt-spawn": "^1.1.74",
-        "matchdep": "^1.0.1"
     }
 }
