@@ -123,7 +123,7 @@ jobs:
 
       - deploy:
           name: Upload to Azure Blob Storage
-          command: rclone sync dist/extractor prod:\$web/extractor --delete-after
+          command: rclone sync dist/extractor prod:\$web/extractor --delete-after --exclude .circleci/ --exclude package.json --exclude yarn.lock
 
 
 workflows:
