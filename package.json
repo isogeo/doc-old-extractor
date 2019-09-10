@@ -1,5 +1,6 @@
 {
     "name": "isogeo-help-extractor",
+    "version": "2019.09",
     "private": false,
     "description": "Isogeo Extractor - Documentation",
     "keywords": [
@@ -16,6 +17,15 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/isogeo/doc-extractor"
+    },
+    "scripts": {
+        "build": "gitbook build",
+        "dev": "gitbook serve"
+    },
+    "engines": {
+        "node": ">=10.15.0",
+        "gitbook": ">=3.2.2",
+        "yarn": ">= 1.0.0"
     },
     "dependencies": {
         "gitbook": "^3.2.3",
