@@ -20,7 +20,7 @@ It's deployed on Isogeo Azure (Storage v2 Static website) using Azure DevOps ([s
   * <http://help.qa.isogeo.com/extractor/>
 * PROD:
   * <https://prodisogeohelp.z28.web.core.windows.net/extractor/>
-  * <http://help.isogeo.com/extractor/>
+  * <https://help.isogeo.com/extractor/>
 
 Deployment rules:
 

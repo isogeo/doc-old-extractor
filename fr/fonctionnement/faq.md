@@ -7,7 +7,7 @@ L'un des avantages de l'extracteur Isogeo est qu'il ne déclecnhe les scripts d'
 Pour ce faire, l'extracteur se fie aux informations contenues dans les métadonnées :
 
 * la date de la première exécution de l'extracteur dans laquelle se trouvait la donnée ;
-* la date de dernière mise à jour de la donnée. Celle-ci est modifiable dans [l'onglet **Histoire** de l'éditeur de métadonnée](http://help.isogeo.com/fr/features/documentation/md_history.html#ev%C3%A9nements).
+* la date de dernière mise à jour de la donnée. Celle-ci est modifiable dans [l'onglet **Histoire** de l'éditeur de métadonnée](https://help.isogeo.com/fr/features/documentation/md_history.html#ev%C3%A9nements).
 
 ---
 
